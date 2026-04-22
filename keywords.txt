@@ -1,0 +1,38 @@
+---
+
+### 2. keywords.txt (Arduino IDE Syntax İçin)
+
+```text
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+StarDust	KEYWORD1
+StarDustLiteClass	KEYWORD1
+SDLitePacket	KEYWORD1
+SDLiteStatus	KEYWORD1
+SDLiteState	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+send	KEYWORD2
+poll	KEYWORD2
+resetRx	KEYWORD2
+update	KEYWORD2
+setCryptoKey	KEYWORD2
+setTimeout	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+SDLITE_START_BYTE	LITERAL1
+SDLITE_END_BYTE	LITERAL1
+SDLITE_PACKET_SIZE	LITERAL1
+OK	LITERAL1
+NO_DATA	LITERAL1
+ERR_CRC	LITERAL1
+ERR_FRAMING	LITERAL1
