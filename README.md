@@ -54,12 +54,7 @@ StarDustLite sdl;
 sdl.begin(Serial1);
 ```
 
-## 3. Encryption Key
-``` cpp
-configure it in "config.h"
-```
-
-## 4. Timeout Setting
+## 4. Configuration
 ``` cpp
 configure it in "config.h"
 
