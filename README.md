@@ -51,7 +51,7 @@ StarDustLite sdl;
 
 ## 2. Initialization
 ``` cpp
-sd.begin(Serial1);
+sdl.begin(Serial1);
 ```
 
 ## 3. Encryption Key
